@@ -5,6 +5,7 @@ A model for training a GTA V AI to drive a car
 Name | Role
 ----- ------
 Evan Miller | Github Person
+
 Allan Bourke | Github person
 ## Users
 
