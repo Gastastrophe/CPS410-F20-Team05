@@ -1,4 +1,4 @@
-# CPS410-05
+# Team 05
 A model for training a GTA V AI to drive a car
 
 ## Members
