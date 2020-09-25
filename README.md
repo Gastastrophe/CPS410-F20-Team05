@@ -5,7 +5,7 @@ A model for training a GTA V AI to drive a car
 | Name  | Role |
 | ------------- | ------------- |
 | Evan Miller  | The one in charge of Github management  |
-| Ian Kraft  | ?  |
+| Ian Kraft  | Here as well  |
 | Josh Gutowski  | I'm also here|
 | Allan Bourke  | Not yet present|
 
