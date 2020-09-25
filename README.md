@@ -14,7 +14,7 @@ Driving and pathfinding algorithm to be proposed to the Rockstar team as civilli
 - Pathfinding from point A to point B
 - Stays on the road (except to avoid objects)
 - Adapts to new environments / robust AI
-- Last Feature
+- Performs in a realistic to life manner
 
 
 ## Installation Instructions
