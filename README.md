@@ -2,6 +2,7 @@
 A model for training a GTA V AI to drive a car
 
 ## Members
+Name | Role
 ----- ------
 
 ## Users
