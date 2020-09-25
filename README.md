@@ -6,6 +6,8 @@ A model for training a GTA V AI to drive a car
 | ------------- | ------------- |
 | Evan Miller  | The one in charge of Github management  |
 | Ian Kraft  | ?  |
+| Josh Gutowski  | I'm also here|
+
 ## Users
 Driving and pathfinding algorithm to be proposed to the Rockstar team as civillian driving AI.
 
