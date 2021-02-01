@@ -1,0 +1,4 @@
+https://www.simracingstudio.com/forum/motion-profiles/grand-theft-auto-v-dof-reality
+https://github.com/PHARTGAMES/GTA5SimFeedback
+https://github.com/TGDSimware/GTA5Telemetry
+https://github.com/knaufinator/GTAV-Telemetry-Simtools-plugin
