@@ -5,336 +5,59 @@
  Training...
  => File : 1 of 1
  ==> EPOCH : 1 of 6
- ===> Iteration: 1 of 18
+ ===> Iteration: 1 of 2
+ Train batch accuracy: 40.00%
  => File : 1 of 1
  ==> EPOCH : 1 of 6
- ===> Iteration: 2 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 3 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 4 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 5 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 6 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 7 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 8 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 9 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 10 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 11 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 12 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 13 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 14 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 15 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 16 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 17 of 18
- => File : 1 of 1
- ==> EPOCH : 1 of 6
- ===> Iteration: 18 of 18
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
+ ===> Iteration: 2 of 2
+ Train batch accuracy: 0.00%
+ ==> Predictions:[0. 0. 0. 0. 0. 2. 0. 0. 0.]
  => File : 1 of 1
  ==> EPOCH : 2 of 6
- ===> Iteration: 1 of 18
+ ===> Iteration: 1 of 2
+ Train batch accuracy: 0.00%
  => File : 1 of 1
  ==> EPOCH : 2 of 6
- ===> Iteration: 2 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 3 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 4 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 5 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 6 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 7 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 8 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 9 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 10 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 11 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 12 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 13 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 14 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 15 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 16 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 17 of 18
- => File : 1 of 1
- ==> EPOCH : 2 of 6
- ===> Iteration: 18 of 18
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
+ ===> Iteration: 2 of 2
+ Train batch accuracy: 40.00%
+ ==> Predictions:[0. 0. 2. 0. 0. 0. 0. 0. 0.]
  => File : 1 of 1
  ==> EPOCH : 3 of 6
- ===> Iteration: 1 of 18
+ ===> Iteration: 1 of 2
+ Train batch accuracy: 0.00%
  => File : 1 of 1
  ==> EPOCH : 3 of 6
- ===> Iteration: 2 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 3 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 4 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 5 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 6 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 7 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 8 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 9 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 10 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 11 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 12 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 13 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 14 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 15 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 16 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 17 of 18
- => File : 1 of 1
- ==> EPOCH : 3 of 6
- ===> Iteration: 18 of 18
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
+ ===> Iteration: 2 of 2
+ Train batch accuracy: 0.00%
+ ==> Predictions:[0. 0. 0. 0. 0. 2. 0. 0. 0.]
  => File : 1 of 1
  ==> EPOCH : 4 of 6
- ===> Iteration: 1 of 18
+ ===> Iteration: 1 of 2
+ Train batch accuracy: 0.00%
  => File : 1 of 1
  ==> EPOCH : 4 of 6
- ===> Iteration: 2 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 3 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 4 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 5 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 6 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 7 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 8 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 9 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 10 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 11 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 12 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 13 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 14 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 15 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 16 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 17 of 18
- => File : 1 of 1
- ==> EPOCH : 4 of 6
- ===> Iteration: 18 of 18
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
+ ===> Iteration: 2 of 2
+ Train batch accuracy: 0.00%
+ ==> Predictions:[0. 0. 0. 0. 0. 2. 0. 0. 0.]
  => File : 1 of 1
  ==> EPOCH : 5 of 6
- ===> Iteration: 1 of 18
+ ===> Iteration: 1 of 2
+ Train batch accuracy: 0.00%
  => File : 1 of 1
  ==> EPOCH : 5 of 6
- ===> Iteration: 2 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 3 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 4 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 5 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 6 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 7 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 8 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 9 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 10 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 11 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 12 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 13 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 14 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 15 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 16 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 17 of 18
- => File : 1 of 1
- ==> EPOCH : 5 of 6
- ===> Iteration: 18 of 18
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
+ ===> Iteration: 2 of 2
+ Train batch accuracy: 0.00%
+ ==> Predictions:[0. 0. 0. 0. 0. 2. 0. 0. 0.]
  => File : 1 of 1
  ==> EPOCH : 6 of 6
- ===> Iteration: 1 of 18
+ ===> Iteration: 1 of 2
+ Train batch accuracy: 30.00%
  => File : 1 of 1
  ==> EPOCH : 6 of 6
- ===> Iteration: 2 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 3 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 4 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 5 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 6 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 7 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 8 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 9 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 10 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 11 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 12 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 13 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 14 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 15 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 16 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 17 of 18
- => File : 1 of 1
- ==> EPOCH : 6 of 6
- ===> Iteration: 18 of 18
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
- => Batch accuracy: 0.00%
+ ===> Iteration: 2 of 2
+ Train batch accuracy: 20.00%
+ ==> Predictions:[0. 0. 0. 0. 0. 0. 0. 2. 0.]
  => Batch accuracy: 0.00%
  ==> Total acc for file Data\training_data_test.npz: 0.00%
- ==> Predictions:[ 0.  0.  0.  0.  0.  0.  0. 20.  0.]
+ ==> Predictions:[0. 0. 0. 0. 0. 0. 0. 2. 0.]
  ==> Total acc after file 0: 0.00%
