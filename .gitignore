@@ -2,3 +2,5 @@
 *.h5
 
 Car/.ipynb_checkpoints/
+
+Car/__pycache__/
