@@ -1,11 +1,6 @@
 GTA V Self Driving Car w/ Motion
 ======================
-Welcome to our GTA V self driving car experiment. This code trains a model to drive a car in GTA V by itself. The training set is a loop focusing on Los Santos' inner-city southeast of the golf course. 
-
-![GTA V Training Loop](https://images.squarespace-cdn.com/content/v1/530c18dce4b0ef6b47240ccd/1615399769205-2AXTPCIT2RNGCBGV0WFO/ke17ZwdGBToddI8pDm48kEEWbSSq0YMxZZqmOBygHs97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmXGCBAtJNnIca4W5TlG2kqi0bewBMu0JBqWXANkeZNn10V7Thbgh94toP_60xLe-X/Map.PNG?format=750w)
-
-
-Note: the built-in GTA V driving AI *is not used* here. This model is trained based on the first person view from the driver's perspective, keyboard keypresses, and object avoidance from the YOLO model. For more information, check out http://www.waynenterprises.com/ai-ml
+Welcome to our GTA V self driving car experiment. This code trains a model to drive a car in GTA V by itself. The training set is a loop focusing on Los Santos' inner-city southeast of the golf course. Note: the built-in GTA V driving AI *is not used* here. This model is trained based on the first person view from the driver's perspective, keyboard keypresses, and object avoidance from the YOLO model. For more information, check out http://www.waynenterprises.com/ai-ml
 
 **Please do not attempt to run the self-driving car in GTA V online. It is a violation of Rockstar's EULA and your account may be banned!**
 
@@ -72,7 +67,6 @@ Windows 10  | v2004, Build 19041.867
 
 NOTE: additional libraries are installed in the iPython script itself Make sure your imports work before proceeding to execute further parts of the code (warnings are OK, but errors are not)
 
-
 ## Developer Task List
 - [x] Collect at least 2 hours of driving data around the training area
 - [x] Get GTA V telemetry data forwarded to UDP using openIV scripting
@@ -80,3 +74,7 @@ NOTE: additional libraries are installed in the iPython script itself Make sure 
 - [ ] Test model on city driving
 - [ ] Test model on country driving
 - [ ] Test self-driving car with person in it
+
+## GTA V Training Loop
+The training set is a loop focusing on Los Santos' inner-city and is southeast of the golf course as shown in the map below.
+![GTA V Training Loop](https://images.squarespace-cdn.com/content/v1/530c18dce4b0ef6b47240ccd/1615399769205-2AXTPCIT2RNGCBGV0WFO/ke17ZwdGBToddI8pDm48kEEWbSSq0YMxZZqmOBygHs97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmXGCBAtJNnIca4W5TlG2kqi0bewBMu0JBqWXANkeZNn10V7Thbgh94toP_60xLe-X/Map.PNG?format=750w)
