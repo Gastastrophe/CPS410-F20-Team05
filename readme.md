@@ -1,6 +1,11 @@
 GTA V Self Driving Car w/ Motion
 ======================
-Welcome to our GTA V self driving car experiment. This code trains a model to drive a car in GTA V by itself. The training set is a loop focusing on the inner-city southeast of the golf course. Note: the built-in GTA V driving AI *is not used* here. This model is trained based on the first person view from the driver's perspective, keyboard keypresses, and object avoidance from the YOLO model. For more information, check out http://www.waynenterprises.com/ai-ml
+Welcome to our GTA V self driving car experiment. This code trains a model to drive a car in GTA V by itself. The training set is a loop focusing on Los Santos' inner-city southeast of the golf course. 
+
+![GTA V Training Loop](https://images.squarespace-cdn.com/content/v1/530c18dce4b0ef6b47240ccd/1615399769205-2AXTPCIT2RNGCBGV0WFO/ke17ZwdGBToddI8pDm48kEEWbSSq0YMxZZqmOBygHs97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmXGCBAtJNnIca4W5TlG2kqi0bewBMu0JBqWXANkeZNn10V7Thbgh94toP_60xLe-X/Map.PNG?format=750w)
+
+
+Note: the built-in GTA V driving AI *is not used* here. This model is trained based on the first person view from the driver's perspective, keyboard keypresses, and object avoidance from the YOLO model. For more information, check out http://www.waynenterprises.com/ai-ml
 
 **Please do not attempt to run the self-driving car in GTA V online. It is a violation of Rockstar's EULA and your account may be banned!**
 
@@ -20,18 +25,20 @@ Credit to __ for providing the intial source code. A lot of the pre-processing c
 
 ## Installation Instructions
 
-1. Make sure you have the following installed:
+Make sure you have the following installed:
+
 	### Requirements
 	 - [Grand Theft Auto] (https://store.steampowered.com/agecheck/app/271590/)
 	 - [Anaconda] (http://www.anaconda.com/)
 	 - [OpenIV] (http://openiv.com/)
 
+	### Preparing GTA V
 	1. Navigate to your GTA V installation directory
 	1. Create a *mods* and *scripts* folder in the root GTA V installation directory
 	1. Copy the *update* folder to *mods* folder (so now it's in */mods/update*)
 	1. Move all **.rpf** files from root folder to *mods* folder (Note: they are alphabetical. Be sure to copy *common.rpf* too)
 	1. Copy the following files from **/_installME/GTA_Binaries_And_Scripts/binaries/** to root folder in GTA V
-		 - *dinput8.dll* (yes, overwrite)
+		 - *dinput8.dll* (yes, overwrite it if it already exists)
 		 - *ScriptHookV.dll*
 		 - *ScriptHookVDotNet.asi*
 		 - *ScriptHookVDotNet2.dll*
@@ -40,6 +47,8 @@ Credit to __ for providing the intial source code. A lot of the pre-processing c
 	1. Open OpenIV
 	1. Open the ASI Manager window (under Tools -> ASI Manager)
 	1. Install ASI loader and OpenIV.asi (they sould turn green. Leave openCamera off, it will appear blue)
+	
+	### Preparing iPython Notebook
 	1. Open Anaconda Navigator
 	1. Open the **/Car/GTAV-Self-driving-car.ipynb**
 	1. Run the first three lines (this may take a while as new packages are installed
@@ -47,7 +56,7 @@ Credit to __ for providing the intial source code. A lot of the pre-processing c
 	1. Enjoy!
 
 	### Version Table
-	If you still encounter issues, here are the verion table tested with this build:
+	If you still encounter issues, here are the versions of software tested with this build:
 
 	Program | Version
 	------------ | -------------
