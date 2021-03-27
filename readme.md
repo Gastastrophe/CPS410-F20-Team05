@@ -27,50 +27,50 @@ Credit to __ for providing the intial source code. A lot of the pre-processing c
 
 Make sure you have the following installed. 
 
-	### Requirements
-	 - [Grand Theft Auto] (https://store.steampowered.com/agecheck/app/271590/)
-	 - [Anaconda] (http://www.anaconda.com/)
-	 - [OpenIV] (http://openiv.com/)
+### Requirements
+ - [Grand Theft Auto] (https://store.steampowered.com/agecheck/app/271590/)
+ - [Anaconda] (http://www.anaconda.com/)
+ - [OpenIV] (http://openiv.com/)
 
-	### Preparing GTA V
-	1. Navigate to your GTA V installation directory
-	1. Create a *mods* and *scripts* folder in the root GTA V installation directory
-	1. Copy the *update* folder to *mods* folder (so now it's in */mods/update*)
-	1. Move all **.rpf** files from root folder to *mods* folder (Note: they are alphabetical. Be sure to copy *common.rpf* too)
-	1. Copy the following files from **/_installME/GTA_Binaries_And_Scripts/binaries/** to root folder in GTA V
-		 - *dinput8.dll* (yes, overwrite it if it already exists)
-		 - *ScriptHookV.dll*
-		 - *ScriptHookVDotNet.asi*
-		 - *ScriptHookVDotNet2.dll*
-		 - *ScriptHookVDotNet3.dll*
-	1. Copy the *GTAScriptHookPlugin.dll* file from */_installME/GTA_Binaries_And_Scripts/scripts* to the */scripts* folder in GTA V
-	1. Open OpenIV
-	1. Open the ASI Manager window (under Tools -> ASI Manager)
-	1. Install ASI loader and OpenIV.asi (they sould turn green. Leave openCamera off, it will appear blue)
-	
-	### Preparing iPython Notebook
-	1. Open Anaconda Navigator
-	1. Open the **/Car/GTAV-Self-driving-car.ipynb**
-	1. Run the first three lines (this may take a while as new packages are installed
-	1. Run the rest of the notebook
-	1. Enjoy!
+### Preparing GTA V
+1. Navigate to your GTA V installation directory
+1. Create a *mods* and *scripts* folder in the root GTA V installation directory
+1. Copy the *update* folder to *mods* folder (so now it's in */mods/update*)
+1. Move all **.rpf** files from root folder to *mods* folder (Note: they are alphabetical. Be sure to copy *common.rpf* too)
+1. Copy the following files from **/_installME/GTA_Binaries_And_Scripts/binaries/** to root folder in GTA V
+	 - *dinput8.dll* (yes, overwrite it if it already exists)
+	 - *ScriptHookV.dll*
+	 - *ScriptHookVDotNet.asi*
+	 - *ScriptHookVDotNet2.dll*
+	 - *ScriptHookVDotNet3.dll*
+1. Copy the *GTAScriptHookPlugin.dll* file from */_installME/GTA_Binaries_And_Scripts/scripts* to the */scripts* folder in GTA V
+1. Open OpenIV
+1. Open the ASI Manager window (under Tools -> ASI Manager)
+1. Install ASI loader and OpenIV.asi (they sould turn green. Leave openCamera off, it will appear blue)
 
-	### Version Table
-	If you still encounter issues, here are the versions of software tested with this build:
+### Preparing iPython Notebook
+1. Open Anaconda Navigator
+1. Open the **/Car/GTAV-Self-driving-car.ipynb**
+1. Run the first three lines (this may take a while as new packages are installed
+1. Run the rest of the notebook
+1. Enjoy!
 
-	Program | Version
-	------------ | -------------
-	Anaconda Navigator |  v1.10.0
-	Jupyter Notebook | v6.1.4
-	Python | v3.8.5 (Note: I created a seperate environment in Anaconda for this code)
-	keras | v2.4.3
-	Grand Theft Auto V | Steam Edition (Build ID 6337558)
-	OpenIV | v4.0.1
-	ScriptHook | v1.0.2245.0
-	ScriptHookDotNet | v3.1.0
-	Windows 10  | v2004, Build 19041.867
+### Version Table
+If you still encounter issues, here are the versions of software tested with this build:
 
-	NOTE: additional libraries are installed in the iPython script itself Make sure your imports work before proceeding to execute further parts of the code (warnings are OK, but errors are not)
+Program | Version
+------------ | -------------
+Anaconda Navigator |  v1.10.0
+Jupyter Notebook | v6.1.4
+Python | v3.8.5 (Note: I created a seperate environment in Anaconda for this code)
+keras | v2.4.3
+Grand Theft Auto V | Steam Edition (Build ID 6337558)
+OpenIV | v4.0.1
+ScriptHook | v1.0.2245.0
+ScriptHookDotNet | v3.1.0
+Windows 10  | v2004, Build 19041.867
+
+NOTE: additional libraries are installed in the iPython script itself Make sure your imports work before proceeding to execute further parts of the code (warnings are OK, but errors are not)
 
 
 ## Developer Task List
