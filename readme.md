@@ -25,7 +25,7 @@ Credit to __ for providing the intial source code. A lot of the pre-processing c
 
 ## Installation Instructions
 
-Make sure you have the following installed:
+Make sure you have the following installed. 
 
 	### Requirements
 	 - [Grand Theft Auto] (https://store.steampowered.com/agecheck/app/271590/)
