@@ -34,17 +34,17 @@ Note: simtools licenses cost money!
 1. Create a *mods* and *scripts* folder in the root GTA V installation directory
 1. Copy the *update* folder to *mods* folder (so now it's in /mods/update)
 1. Move all **.rpf** files from root folder to *mods* folder (Note: they are alphabetical. Be sure to copy *common.rpf* too)
-1. Copy the following files from /GTA_Binaries_And_Scripts/Binaries/ to root folder in GTA V
+1. Copy the following files from /_installME/GTA_Binaries_And_Scripts/binaries/ to root folder in GTA V
  - *dinput8.dll* (yes, overwrite)
  - *ScriptHookV.dll*
  - *ScriptHookVDotNet.asi*
  - *ScriptHookVDotNet2.dll*
  - *ScriptHookVDotNet3.dll*
-1. Copy the *GTAScriptHookPlugin.dll* file from /GTA_Binaries_And_Scripts/Binaries/scripts to the /scripts folder in GTA V
+1. Copy the *GTAScriptHookPlugin.dll* file from /_installME/GTA_Binaries_And_Scripts/scripts to the /scripts folder in GTA V
 1. Open OpenIV
 1. Open the ASI Manager window (under Tools -> ASI Manager)
 1. Install ASI loader and OpenIV.asi (they sould turn green. Leave openCamera off, it will appear blue)
-1. (Optional) install *GrandTheftAutoV_GamePlugin.zip* from /GTA_Binaries_And_Scripts/Simtools  by opening the simtools plugin manager and dragging the file into the installer.
+1. (Optional) install *GrandTheftAutoV_GamePlugin.zip* from /_installME/GTA_Binaries_And_Scripts/Simtools  by opening the simtools plugin manager and dragging the file into the installer.
 1. Open Anaconda Navigator
 1. Open the /Car/GTAV-Self-driving-car.ipynb
 1. Run the first three lines (this may take a while as new packages are installed
