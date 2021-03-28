@@ -64,6 +64,7 @@ OpenIV | v4.0.1
 ScriptHook | v1.0.2245.0
 ScriptHookDotNet | v3.1.0
 Windows 10  | v2004, Build 19041.867
+.NET 4 | v4.8 (only needed if building plugins from scratch, otherwise use the binaries in the */_installMe* folder)
 
 NOTE: additional libraries are installed in the iPython script itself Make sure your imports work before proceeding to execute further parts of the code (warnings are OK, but errors are not)
 
