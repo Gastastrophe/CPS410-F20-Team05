@@ -1,10 +1,12 @@
 GTA V Self Driving Car w/ Motion
 ======================
-Welcome to our GTA V self driving car experiment. This code trains a model to drive a car in GTA V by itself. The training set is a loop focusing on Los Santos' inner-city southeast of the golf course. Note: the built-in GTA V driving AI *is not used* here. This model is trained based on the first person view from the driver's perspective, keyboard keypresses, and object avoidance from the YOLO model. For more information, check out http://www.waynenterprises.com/ai-ml
+Welcome to our GTA V self driving car experiment. Experience the thrills of autonomy in our motion simulator. Feel the wind in your hair as you cruise through town, and hold tight for every bad LS driver, pothole, and the occasional stunt. The vehicle's full motion in the game is recreated in our simulator, so you actually feel like you are in the car! The training set is a loop focusing on Los Santos' inner-city southeast of the golf course. Note: the built-in GTA V driving AI *is not used* here. This model is trained based on the first person view from the driver's perspective, keyboard keypresses, and object avoidance from the YOLO model. For more information, check out http://www.waynenterprises.com/ai-ml
 
 **Please do not attempt to run the self-driving car in GTA V online. It is a violation of Rockstar's EULA and your account may be banned!**
 
 :star: Star us on GitHub — it helps increase this project's visibility!
+
+[![GTA V Self Driving Video](https://img.youtube.com/vi/NrPeC1ez-M4/0.jpg)](https://youtu.be/NrPeC1ez-M4)
 
 ## Developers
 Name | Username | Contributions
