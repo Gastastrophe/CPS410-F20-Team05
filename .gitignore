@@ -1,5 +1,9 @@
-
-
 Car/.ipynb_checkpoints/
-
 Car/__pycache__/
+
+#Don't include build files from the GTA V Plugin
+bin/
+obj/
+Debug/
+Release/
+*.suo
