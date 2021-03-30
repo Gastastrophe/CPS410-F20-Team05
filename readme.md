@@ -18,7 +18,7 @@ Allen Bourk | bourk1af | Team Member
 Ian Kraft | ianfraft | Team Member
 Dr. Alexander Redei | asmalex | Motion Simulation
 
-Credit to __ for providing the intial source code. A lot of the pre-processing comes from their code.
+Credit to Iker García Ferrero - (ikergarcia1996) and Eritz Yerga Gutierrez - (eritzyg) for providing the intial source code. A lot of the pre-processing comes from their code at https://github.com/aidenyg/GTAV-Self-driving-car.
 
 ## Installation Instructions
 
