@@ -12,7 +12,7 @@ Feel the wind in your hair as you cruise through town, and hold tight for every 
 Name | Username | Contributions
 ------------ | ------------- | -------------
 Evan Miller | gastastrophe | Machine Learning Model & Most Development
-Michael Dahl | dahle1mr | GTA V Scripting & UDP API
+Michael Dahle | dahle1mr | GTA V Scripting & UDP API
 Josh Gutowski | josh-gutowski | Team Member
 Allen Bourk | bourk1af | Team Member
 Ian Kraft | ianfraft | Team Member
