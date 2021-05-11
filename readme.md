@@ -73,8 +73,8 @@ NOTE: additional libraries are installed in the iPython script itself Make sure 
 ## Developer Task List
 - [x] Collect at least 2 hours of driving data around the training area
 - [x] Get GTA V telemetry data forwarded to UDP using openIV scripting
-- [ ] Train a "good" model
-- [ ] Test model on city driving
+- [x] Train a "good" model
+- [x] Test model on city driving
 - [ ] Test model on country driving
 - [ ] Test self-driving car with person in it
 
